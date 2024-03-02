@@ -5,11 +5,12 @@ project:
 website:
   title: "Arun Jose"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - cv.qmd
+      - Projects.qmd
 
 format:
   html:

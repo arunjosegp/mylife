@@ -1,6 +1,6 @@
 ---
-title: My Name
-author: Your Name
+title: About Me
+author: Arun Jose
 output: html_document
 ---
 
@@ -8,32 +8,147 @@ output: html_document
 
 ## About Me
 
-A short biographical paragraph describing yourself, your skills, and your career goals.
+With a self-directed and detail-oriented approach, I have garnered professional experience in designing, developing, analyzing, and implementing client-server and web-based applications.
+
+My expertise extends to system design, testing, debugging, and modifying application code, ensuring seamless software operation. I possess a keen ability to quickly grasp new programming languages and technologies, enabling me to complete projects within specified deadlines.
+
+In addition to my technical proficiency, I excel in communication, problem-solving, documentation, analytical thinking, and decision-making. These skills enable me to effectively collaborate with teams, address challenges, and deliver high-quality results.
+
+As a dedicated professional, I strive to combine my technical acumen and essential soft skills to drive success in the development and implementation of software solutions. In parallel, I am proud to serve as a Co-Founder of Ad Hoc Healthcare®, a UC Berkeley recognized startup. In this role, I contribute to the strategic vision and development of innovative solutions, showcasing my commitment to entrepreneurship and driving positive change in the healthcare domain.
+
+Please don't hesitate to reach out if you have any further inquiries or would like to explore potential collaborations.
 
 ## Education
 
--   **Institution Name** (Year - Year)
-    -   **Degree** in **Major**
-    -   **Relevant Coursework**: List relevant coursework or projects
--   **(Optional) Institution Name** (Year - Year)
-    -   **Degree** in **Major**
-    -   **Relevant Coursework**: List relevant coursework or projects
+-   **Technische Universität Chemnitz** (2021 - Present)
+    -   **MSc** in **in Web Engineering, Computer Science**
+-   **St. Aloysius Institute of Education, Mangalore** (2015 - 2018)
+    -   **Master** in **Computer Applications (M.C.A.), Information Technology**
+-   **Kristu Jyoti College of Management and Information Technology** (2013 - 2015)
+    -   **Bachelor** in **Commerce (B.Com.) in Computer Applications, Business/Commerce, Computer               Applications**
+
 
 ## Experience
 
--   **Job Title** at **Company Name** (Year - Year)
-    -   List your responsibilities and accomplishments using bullet points.
-    -   Highlight relevant skills and technologies used.
--   **(Optional) Job Title** at **Company Name** (Year - Year)
-    -   List your responsibilities and accomplishments using bullet points.
-    -   Highlight relevant skills and technologies used.
+* **Working Student - Software Tool Developer (Siemens Gamesa)** (Jan 2023 – Present)
+
+    * Design, develop, and implement automated workflows using Power Apps Automate.
+    * Collaborate with stakeholders to understand requirements and design workflows that meet business        needs.
+    * Troubleshoot and resolve issues related to workflows and automations.
+    * Document workflows and ensure they are aligned with industry best practices.
+    * Stay up-to-date with the latest trends and advancements in Power Apps Automate and related              technologies.
+
+* **Working Student - Software Ecosystem and Marketplace Technologies (Siemens)** (Jan 2022 – Dec 2022)
+
+    * Provided wiki documentation for Software Ecosystem Plugins.
+    * Developed SECO Models examples using MagicDraw.
+    * Utilized Java and Java Swing frameworks for MagicDraw plugin development.
+    * Implemented a customized Java plugin to export UML to XMI files.
+    * Resolved bugs in an existing Java plugin for MagicDraw.
+    * Contributed to a CI/CD pipeline for Java plugins in GitLab.
+    * Employed SECO Modeling to create scenarios, matrices, and relationship diagrams.
+    * Integrated SECO Models into Teamwork Cloud and ensured publication through Cameo Collaborator.
+    
+* **Software Developer (Siemens Gamesa)** (Oct 2018 – Oct 2021) (3 yrs 1 mo)
+
+    * Collaborated with other software engineers from Germany, Denmark and Spain to refactor the code         and reduce the code complexity, quality etc.
+    * Experience in developing microservices in Java or .NET using Netflix OSS that runs on a dockerized       platform. For Project-KPI we have used microservices with scalable distributed-systems that makes       our application more resilient in nature. 
+    * Providing support to IT personnel in designing, developing, analyzing, testing, debugging and           application deployment
+    * Experience in Kafka message broker’s for managing real-time data from webhooks on an event basis.
+    * Pleasant experience in RDBMS like MSSQL/Postgres SQL and associated SQL Programming Knowledge in        creating and maintaining SQL Databases, JDBC, TSQL, DB Tables, Stored Procedures, Views,                functions, Triggers and PL/SQL.
+    * Experience using SQL for data extraction and management (MSSQL, PostgreSQL). Also, developed KPI        custom reports using R in PowerBI
+    * Improved Data pipeline using Apache Airflow Python DAG’s that significantly improved the quality        of data pipelines and notify whenever there is fail-over. Also, this enables us to track over the       pipelines on a regular basis.
+    * Created an experimental chat bot using Python’s NLTK library for Project-KPI where Project              Manager’s /Owner can get the current status of the projects.
+    * Developed highly interactive web applications utilizing JavaScript, HTML5, CSS, JSON, Java and          integrating Restful API’s, external web services ensuring high performance on Mobile and Desktop. 
+    * Hands on experience with Azure-IoT Edge and module deployment using docker
+    * Deployment of applications in SIMATIC 227E box using nginx server configuration, mono/ dotnet Core       programs and Linux shell scripting
+    * Experienced in Build and Deployment of .NET, Java applications on to different environment like         Development, QA, UAT and Production, which includes designing, development and implementation.
+
+    
+**Additional Experiences**
+
+* **Investor (Medsoon.in Get Well Soon™)** (Mar 2023 – Present)
+
+    * Investor at Medsoon.in Get Well Soon™, an innovative E-Commerce platform specializing in B2B and        B2C healthcare solutions.
+    * Actively involved in shaping the strategic direction and growth of the platform.
+    * Manage and oversee software solutions to enhance the platform's functionality and user experience.
+    * Contribute to the development of a robust online marketplace for healthcare products and services.
+    * Collaborate with other investors and stakeholders to drive business development initiatives.
+    * Monitor market trends and identify opportunities for expansion and diversification.
+    * Support the platform's mission to streamline healthcare procurement for businesses and                  individuals.
+    * Leverage expertise in software management to optimize digital operations and efficiency.
+    * Play a pivotal role in the success and scalability of Medsoon.in Get Well Soon™.
+    
+* **Co-Founder (Ad Hoc Healthcare® - A UC Berkeley Recognized Start-Up)** (Apr 2021 – Present)
+
+    * Lead the Technology, Software Development, and Innovation department.
+    * Drive the development of cutting-edge technological solutions within the healthcare sector.
+    * Spearhead innovation initiatives to revolutionize healthcare through technology.
+    * Collaborate with cross-functional teams to achieve strategic goals.
+    * Oversee software development projects from ideation to implementation.
+    * Foster a culture of innovation and continuous improvement within the organization.
+    * Establish partnerships and collaborations to enhance the company's technology offerings.
+    * Ensure the alignment of technology and software development with the company's mission and              objectives.
+    
+* **Student Board Member - AI in HCI** (Oct 2021 – Jun 2022)
+
+    * Represented and promoted the AI in HCI conference on various platforms.
+    * Engaged with students for new ideas, tech conversations, and workshops.
+    * Facilitated and organized student meetings, activities, and workshops.
+    * Coordinated the planning with the other volunteer groups.
+    * Assisted in the basic preparation of events/workshops under the supervision of the other program        board members.
+    
+* **Software Engineering Intern (Siemens)** (Jan 2018 – Oct 2018)
+
+    * Owned development and releases of internal tools for Siemens Gamesa and Siemens Global Service,         India.
+    * Developed software using various web frameworks to meet design specifications and user                  requirements.
+    * Contributed to project plans, adhering to procedures and standards. Provided support and resolved       errors in console and web applications.
+    * Created user guides for end-users and system admins, maintaining all project documentation.
+    * Evaluated the impact of programming changes on the entire system.
+    * Programmed, documented, implemented system enhancements, and maintained legacy applications.
+    
+* **Software Engineering Intern (Siemens)** (Jun 2017 – Jul 2017)
+
+    * Working knowledge of web technologies, but not limited to web frameworks.
+    * Implemented client’s requirements and use cases into functional applications as well as in              ensuring their best possible performance, quality, and responsiveness
+    * Design, develop and optimize web applications in a Microsoft based development environment under        the direction of senior programmers
+    * Developed new features and functionality for software applications as per requirements as well as       in identifying and debugging defects in application code
+    * Meet programming standards by following production, productivity, quality and customer-service          standards by identifying work process improvements
+    
+**Additional Activities**
+
+* **Member of BÜNDNIS 90/DIE GRÜNEN** (Jun 2023 – Present)
+
+* **ACM Special Interest Group on Artificial Intelligence (ACM, Association for Computing Machinery)** (Apr 2023 – Present)
+* **ACM Student Member (ACM, Association for Computing Machinery)** (Mar 2023 – Present)
+
+    * Continued professional development through participation in ACM-sponsored training programs,            workshops, and online courses.
+    * Leveraged ACM's resources to stay updated on advancements, research papers, and best practices.
+    * Actively contributed to online community forums, sharing knowledge, and seeking advice from peers.
+    * Participated in national and international conferences and seminars, gaining exposure to                cutting-edge research and trends.
+    
+* **Member of European Youth Parliament Germany** (Feb 2023 – Present)
+
+    * Participated in the European Youth Event, collaborating with youth from across Europe.
+    * Collaborated with a diverse team to develop and implement projects addressing youth-related             issues.
+    * Conducted research and analysis, providing informed contributions to enhance youth-focused              policies.
+    * Engaged in debates, workshops, and panel discussions, fostering dialogue and understanding.
+    * Networked with other youth leaders, policymakers, and influencers, strengthening collaboration.
+    * Continued development through attending conferences, workshops, and training sessions.
+
 
 ## Skills
 
--   Skill 1
--   Skill 2
--   Skill 3
--   (List your relevant technical and soft skills)
+-   Microsoft Power Apps(Model Driven App Development) 
+-   .NET Framework, C#  
+-   ASP.NET MVC  
+-   Microsoft Azure  
+-   Data Analysis  
+-   Power BI
+-   Python
+-   JavaScript
+-   R
+
 
 ## Projects
 
@@ -46,18 +161,8 @@ A short biographical paragraph describing yourself, your skills, and your career
 
 ## Contact
 
--   Email: youremail\@example.com
--   (Optional) Website: yourwebsite.com
--   (Optional) LinkedIn: linkedin.com/in/your-profile
+-   Email: arunmathewg\@outlook.com
+-   (Optional) Website: arunjosegp.github.io/mylife/
+-   (Optional) LinkedIn:linkedin.com/in/arunjosegp/
 
-**Note:** You can replace the content with your own information and customize the structure to fit your needs.
 
-**Additional Features:**
-
--   You can add sections for awards, publications, or volunteer work.
--   Use markdown formatting for headings, lists, and bold/italic text.
--   Include images or logos for a more visually appealing CV.
-
-**Exporting Your CV:**
-
-Once you've filled in the content, run the following command in your terminal (assuming you saved the file as `cv.qmd`):
