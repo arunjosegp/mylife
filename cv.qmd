@@ -1,0 +1,63 @@
+---
+title: My Name
+author: Your Name
+output: html_document
+---
+
+# My Curriculum Vitae
+
+## About Me
+
+A short biographical paragraph describing yourself, your skills, and your career goals.
+
+## Education
+
+-   **Institution Name** (Year - Year)
+    -   **Degree** in **Major**
+    -   **Relevant Coursework**: List relevant coursework or projects
+-   **(Optional) Institution Name** (Year - Year)
+    -   **Degree** in **Major**
+    -   **Relevant Coursework**: List relevant coursework or projects
+
+## Experience
+
+-   **Job Title** at **Company Name** (Year - Year)
+    -   List your responsibilities and accomplishments using bullet points.
+    -   Highlight relevant skills and technologies used.
+-   **(Optional) Job Title** at **Company Name** (Year - Year)
+    -   List your responsibilities and accomplishments using bullet points.
+    -   Highlight relevant skills and technologies used.
+
+## Skills
+
+-   Skill 1
+-   Skill 2
+-   Skill 3
+-   (List your relevant technical and soft skills)
+
+## Projects
+
+-   **Project Name** (Year)
+    -   A brief description of your project and its goals.
+    -   Mention any technologies used or key achievements.
+-   **(Optional) Project Name** (Year)
+    -   A brief description of your project and its goals.
+    -   Mention any technologies used or key achievements.
+
+## Contact
+
+-   Email: youremail\@example.com
+-   (Optional) Website: yourwebsite.com
+-   (Optional) LinkedIn: linkedin.com/in/your-profile
+
+**Note:** You can replace the content with your own information and customize the structure to fit your needs.
+
+**Additional Features:**
+
+-   You can add sections for awards, publications, or volunteer work.
+-   Use markdown formatting for headings, lists, and bold/italic text.
+-   Include images or logos for a more visually appealing CV.
+
+**Exporting Your CV:**
+
+Once you've filled in the content, run the following command in your terminal (assuming you saved the file as `cv.qmd`):
